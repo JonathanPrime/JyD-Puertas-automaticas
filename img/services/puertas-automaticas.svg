@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30.72 30.72">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2e2750;
+      }
+
+      .cls-2, .cls-3, .cls-5 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #fff;
+        stroke-width: 0.02px;
+      }
+
+      .cls-3 {
+        stroke-dasharray: 0.09 0.09;
+      }
+
+      .cls-4 {
+        fill: #1f1b14;
+      }
+
+      .cls-5 {
+        stroke: #251f45;
+        stroke-width: 0.78px;
+      }
+    </style>
+  </defs>
+  <g id="Capa_2" data-name="Capa 2">
+    <g id="Page_1" data-name="Page 1">
+      <path class="cls-1" d="M23.81,21.09H21.33V8.87H9.44V21.08H6.91V7.18h16.9ZM9.86,8.37h11V7.58h-11Z"/>
+      <path class="cls-1" d="M9.92,9.25h4.54V21.08H9.92Zm1.66,11.42.45,0c.8,0,.8,0,.8-.78V9.71H11.58Zm-.48-11h-.8v11h.8Zm3,0h-.8v11h.8Z"/>
+      <path class="cls-1" d="M20.87,21.09H17.55V9.24h2.22c1.1,0,1.1,0,1.1,1.09V21.09Zm-.4-.43V11.6c0-.52,0-1,0-1.58,0-.12-.14-.35-.22-.36-.76,0-1.52,0-2.29,0v11Z"/>
+      <line class="cls-2" x1="9.43" y1="7.18" x2="9.43" y2="7.23"/>
+      <line class="cls-3" x1="9.43" y1="7.32" x2="9.43" y2="8.77"/>
+      <line class="cls-2" x1="9.43" y1="8.82" x2="9.43" y2="8.86"/>
+      <path class="cls-1" d="M15.48,8.12H15A.06.06,0,0,1,15,8.06V7.9A.06.06,0,0,1,15,7.84h.45a.05.05,0,0,1,.06.06v.16a.06.06,0,0,1-.06.06"/>
+      <rect class="cls-4" x="15.78" y="22.72" width="1.63" height="0.27"/>
+      <polygon class="cls-4" points="16.92 23.55 16.73 23.35 17.22 22.86 16.73 22.36 16.92 22.17 17.61 22.86 16.92 23.55"/>
+      <rect class="cls-4" x="13.31" y="22.72" width="1.63" height="0.27"/>
+      <polygon class="cls-4" points="13.8 23.55 13.11 22.86 13.8 22.17 14 22.36 13.5 22.86 14 23.35 13.8 23.55"/>
+      <path class="cls-5" d="M30.33,15.36a15,15,0,1,1-15-15A15,15,0,0,1,30.33,15.36Z"/>
+    </g>
+  </g>
+</svg>

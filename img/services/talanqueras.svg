@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30.72 30.72">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2e2750;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-5, .cls-6 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        stroke: #fff;
+        stroke-width: 0.09px;
+      }
+
+      .cls-4 {
+        fill: #1f1b14;
+      }
+
+      .cls-5 {
+        stroke: #1f1b14;
+        stroke-width: 0.43px;
+      }
+
+      .cls-6 {
+        stroke: #251f45;
+        stroke-width: 0.78px;
+      }
+    </style>
+  </defs>
+  <g id="Capa_2" data-name="Capa 2">
+    <g id="Page_1" data-name="Page 1">
+      <path class="cls-1" d="M12.72,14.82v.09a1,1,0,1,1-1-1h0L12.94,13l.77,1Z"/>
+      <rect class="cls-2" x="11.37" y="14.4" width="0.13" height="0.13"/>
+      <rect class="cls-2" x="11.31" y="14.62" width="0.13" height="0.13"/>
+      <rect class="cls-2" x="12.1" y="14.96" width="0.13" height="0.13"/>
+      <rect class="cls-2" x="11.31" y="14.83" width="0.13" height="0.13"/>
+      <rect class="cls-2" x="11.96" y="14.74" width="0.13" height="0.13"/>
+      <rect class="cls-2" x="11.93" y="15.11" width="0.13" height="0.13"/>
+      <rect class="cls-2" x="11.63" y="15.24" width="0.13" height="0.13"/>
+      <rect class="cls-2" x="11.57" y="14.89" width="0.13" height="0.13"/>
+      <rect class="cls-2" x="11.63" y="14.68" width="0.13" height="0.13"/>
+      <path class="cls-1" d="M9.43,12.08V24.67H13.6a.9.9,0,0,0,.89-.9V12.08Zm4.62,11.37a.79.79,0,0,1-.78.79H9.87V12.51h4.18Z"/>
+      <path class="cls-3" d="M12.72,14.82v.09a1,1,0,1,1-1-1h0L12.94,13l.77,1Z"/>
+      <path class="cls-2" d="M12.93,13.5s0,0,0,0,0,0,0,0"/>
+      <path class="cls-2" d="M12.82,13.33s0,0,0,0,0,0,0,0"/>
+      <path class="cls-2" d="M13,13.43h0s0,0,0,0h0s0,0,0,0"/>
+      <path class="cls-2" d="M12.88,13.21s0,0,0,0,0,0,0,0"/>
+      <path class="cls-1" d="M13.13,14.1l-.34-.36a.77.77,0,0,1,0-1.09l6.78-6.38a.78.78,0,0,1,1.1,0l.33.36a.76.76,0,0,1,0,1.09l-6.79,6.38a.77.77,0,0,1-1.09,0"/>
+      <rect class="cls-2" x="11.31" y="15.09" width="0.13" height="0.13"/>
+      <rect class="cls-2" x="11.63" y="14.47" width="0.13" height="0.13"/>
+      <rect class="cls-2" x="11.21" y="14.3" width="0.13" height="0.13"/>
+      <rect class="cls-2" x="11.05" y="14.45" width="0.13" height="0.13"/>
+      <rect class="cls-2" x="10.99" y="14.77" width="0.13" height="0.13"/>
+      <rect class="cls-2" x="11.02" y="15.09" width="0.13" height="0.13"/>
+      <rect class="cls-2" x="11.21" y="15.44" width="0.13" height="0.13"/>
+      <rect class="cls-2" x="11.57" y="15.54" width="0.13" height="0.13"/>
+      <rect class="cls-2" x="11.87" y="15.44" width="0.13" height="0.13"/>
+      <rect class="cls-2" x="12.17" y="15.31" width="0.13" height="0.13"/>
+      <rect class="cls-2" x="12.38" y="14.96" width="0.13" height="0.13"/>
+      <rect class="cls-2" x="12.17" y="14.47" width="0.13" height="0.13"/>
+      <rect class="cls-2" x="11.93" y="14.34" width="0.13" height="0.13"/>
+      <rect class="cls-2" x="11.5" y="14.11" width="0.13" height="0.13"/>
+      <rect class="cls-2" x="12.42" y="14.7" width="0.13" height="0.13"/>
+      <rect class="cls-2" x="11.87" y="14.04" width="0.13" height="0.13"/>
+      <rect class="cls-2" x="12.56" y="14.47" width="0.13" height="0.13"/>
+      <rect class="cls-2" x="12.34" y="14.07" width="0.13" height="0.13"/>
+      <rect class="cls-2" x="12.69" y="14.17" width="0.13" height="0.13"/>
+      <rect class="cls-2" x="12.21" y="13.85" width="0.13" height="0.13"/>
+      <rect class="cls-2" x="12.69" y="13.91" width="0.13" height="0.13"/>
+      <rect class="cls-2" x="12.97" y="14.04" width="0.13" height="0.13"/>
+      <rect class="cls-2" x="12.48" y="13.58" width="0.13" height="0.13"/>
+      <polygon class="cls-4" points="19 13.4 19.19 12.34 20.25 12.52 20.32 12.1 18.84 11.85 18.58 13.33 19 13.4"/>
+      <path class="cls-5" d="M20.52,16.23A6.27,6.27,0,0,0,19,12.09"/>
+      <path class="cls-6" d="M30.33,15.36a15,15,0,1,1-15-15A15,15,0,0,1,30.33,15.36Z"/>
+    </g>
+  </g>
+</svg>
