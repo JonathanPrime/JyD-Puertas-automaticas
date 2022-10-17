@@ -768,6 +768,22 @@ mark,
   margin-left: auto;
 }
 
+@media (max-width: 400px) {
+  .img-fluid-project {
+    width: 270px !important;
+    height: 150px !important;
+  }
+  .portfolio-item .portfolio-text {
+    width: 270px !important;
+    height: 150px !important;
+  }
+  .portfolio-item .portfolio-img {
+    width: 270px !important;
+    height: 150px !important;
+  }
+}
+
+
 @media (min-width: 576px) {
 
   .container,
