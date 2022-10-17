@@ -1,6 +1,10 @@
+$('.navbar-nav>a').on('click', function () {
+    $('.navbar-collapse').collapse('hide');
+});
+
 (function ($) {
     "use strict";
-    
+
     // Dropdown on mouse hover
     $(document).ready(function () {
         function toggleNavbarMethod() {
@@ -17,8 +21,8 @@
         toggleNavbarMethod();
         $(window).resize(toggleNavbarMethod);
     });
-    
-    
+
+
     // Back to top button
     $(window).scroll(function () {
         if ($(this).scrollTop() > 100) {
@@ -28,7 +32,7 @@
         }
     });
     $('.back-to-top').click(function () {
-        $('html, body').animate({scrollTop: 0}, 1500, 'easeInOutExpo');
+        $('html, body').animate({ scrollTop: 0 }, 1500, 'easeInOutExpo');
         return false;
     });
 
@@ -39,26 +43,26 @@
         smartSpeed: 1500,
         dots: false,
         loop: true,
-        nav : true,
-        navText : [
+        nav: true,
+        navText: [
             '<i class="fa fa-angle-left" aria-hidden="true"></i>',
             '<i class="fa fa-angle-right" aria-hidden="true"></i>'
         ],
         responsive: {
-            0:{
-                items:1
+            0: {
+                items: 1
             },
-            576:{
-                items:1
+            576: {
+                items: 1
             },
-            768:{
-                items:2
+            768: {
+                items: 2
             },
-            992:{
-                items:2
+            992: {
+                items: 2
             },
-            1170:{
-                items:3
+            1170: {
+                items: 3
             }
         }
     });
@@ -74,7 +78,7 @@
         $("#portfolio-flters li").removeClass('active');
         $(this).addClass('active');
 
-        portfolioIsotope.isotope({filter: $(this).data('filter')});
+        portfolioIsotope.isotope({ filter: $(this).data('filter') });
     });
 
 
@@ -84,27 +88,27 @@
         smartSpeed: 1500,
         dots: false,
         loop: true,
-        nav : true,
-        navText : [
+        nav: true,
+        navText: [
             '<i class="fa fa-angle-left" aria-hidden="true"></i>',
             '<i class="fa fa-angle-right" aria-hidden="true"></i>'
         ],
         responsive: {
-            0:{
-                items:1
+            0: {
+                items: 1
             },
-            576:{
-                items:1
+            576: {
+                items: 1
             },
-            768:{
-                items:2
+            768: {
+                items: 2
             },
-            992:{
-                items:3
+            992: {
+                items: 3
             }
         }
     });
-    
+
 
 
     // Testimonials carousel
@@ -114,13 +118,13 @@
         items: 1,
         dots: false,
         loop: true,
-        nav : true,
-        navText : [
+        nav: true,
+        navText: [
             '<i class="fa fa-angle-left" aria-hidden="true"></i>',
             '<i class="fa fa-angle-right" aria-hidden="true"></i>'
         ]
     });
-    
+
 })(jQuery);
 
 popupWhatsApp = () => {
@@ -129,29 +133,29 @@ popupWhatsApp = () => {
     let btnOpenPopup = document.querySelector('.whatsapp-button');
     let popup = document.querySelector('.popup-whatsapp');
     let sendBtn_1 = document.getElementById('send-btn');
-  
+
     btnClosePopup.addEventListener("click", () => {
-      popup.classList.toggle('is-active-whatsapp-popup')
+        popup.classList.toggle('is-active-whatsapp-popup')
     })
-  
+
     btnOpenPopup.addEventListener("click", () => {
-      popup.classList.toggle('is-active-whatsapp-popup')
-      popup.style.animation = "fadeIn .6s 0.0s both";
+        popup.classList.toggle('is-active-whatsapp-popup')
+        popup.style.animation = "fadeIn .6s 0.0s both";
     })
-  
+
     sendBtn_1.addEventListener("click", () => {
-      let msg = document.getElementById('whats-in').value;
-      let relmsg = msg.replace(/ /g, "%20");
-      //just change the numbers "1515551234567" for your number. Don't use +001-(555)1234567     
-      window.open('https://wa.me/573204384224?text=' + relmsg, '_blank');
+        let msg = document.getElementById('whats-in').value;
+        let relmsg = msg.replace(/ /g, "%20");
+        //just change the numbers "1515551234567" for your number. Don't use +001-(555)1234567     
+        window.open('https://wa.me/573204384224?text=' + relmsg, '_blank');
     });
-  
+
     /* Open pop-up in 15 seconds */
     /* setTimeout(() => {
       popup.classList.toggle('is-active-whatsapp-popup');
     }, 8000); */
-  
-  }
 
-  popupWhatsApp();
+}
+
+popupWhatsApp();
 
